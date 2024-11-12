@@ -1,0 +1,3 @@
+# My first Java project
+This is the first project i have ever made, its not great and the code may be very dirty, but i found it looking through old files and i want to upload here because i learned a lot by doing this
+Maybe i will retake this someday and finish it with a GUI...
